@@ -1,0 +1,21 @@
+body {
+  padding: 50px;
+}
+
+a {
+  color: #00B7FF;
+}
+
+summary {
+  font-weight: bold;
+}
+
+#last-updated{
+  text-align: center;
+}
+
+footer{
+  text-align: center;
+  color: darkgrey;
+}
+
