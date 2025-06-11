@@ -15,7 +15,12 @@ summary {
 }
 
 footer{
+  font-size: .8rem;
   text-align: center;
+  color: darkgrey;
+}
+
+footer a{
   color: darkgrey;
 }
 
